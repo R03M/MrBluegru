@@ -82,7 +82,9 @@
 - *PostgreSQL*
 - *Sequelize*
 
-<img src="./gif/dogsApp.gif"/> 
+**Try it 🚀 <a href="https://dogs-app-olive.vercel.app/" target="_blank" rel="noreferrer">Dogs App</a>**
+
+  <img src="./gif/dogsApp.gif"/> 
 
 ---
 ## **Coffee Street**
@@ -123,6 +125,8 @@
   - <a href="https://github.com/DaianaOli" target="_blank" rel="noreferrer">Luz Olivares</a>  
   - <a href="https://github.com/mrbluegru" target="_blank" rel="noreferrer">Miguel E. Rodríguez C.</a>  
   - <a href="https://github.com/noravers" target="_blank" rel="noreferrer">Nora Rodríguez</a>  
+  
+**Try it 🚀 <a href="https://coffee-street-front-end.vercel.app" target="_blank" rel="noreferrer">Coffee Street</a>**
 
 <img src="./gif/coffeeStreet.gif" />
 
