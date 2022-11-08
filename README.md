@@ -132,13 +132,9 @@
 
 ---
 ### Contact me on 
-<a href="https://www.linkedin.com/in/mrbluegru/" target="_blank" rel="noreferrer">
 
-![linkedIn](https://img.shields.io/badge/linkedin-0078D6?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-<a href="mailto:miguelrodriguezcastle@gmail.com" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/mrbluegru/" target="_blank" rel="noreferrer">![linkedIn](https://img.shields.io/badge/linkedin-0078D6?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-![email](https://img.shields.io/badge/gmail-0078D6?style=for-the-badge&logo=gmail&logoColor=white)
-</a>
+<a href="mailto:miguelrodriguezcastle@gmail.com" target="_blank" rel="noreferrer">![email](https://img.shields.io/badge/gmail-0078D6?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ---
