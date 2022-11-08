@@ -1,10 +1,12 @@
-<img src='https://res.cloudinary.com/db6aq84ze/image/upload/v1667866893/Letras_blanca_b7z142.png' />
+<p align='center'>
+  <img src='https://res.cloudinary.com/db6aq84ze/image/upload/v1667866893/Letras_blanca_b7z142.png' alt='logo'/>
+</p>
 
 
 ---
 # About me
 
-  a lot of text a lot.
+  I'm a Full Stack Developer, currently focused on front-end development with ReactJS.
 
 ---
 # Tech Stack
@@ -122,8 +124,7 @@
   - <a href="https://github.com/mrbluegru" target="_blank" rel="noreferrer">Miguel E. Rodríguez C.</a>  
   - <a href="https://github.com/noravers" target="_blank" rel="noreferrer">Nora Rodríguez</a>  
 
-<!-- gifProyect -->
-<img src="" />
+<img src="./gif/coffeeStreet.gif" />
 
 ---
 ### Contact me on 
