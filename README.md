@@ -99,7 +99,6 @@
 
   **Technologies**
   - *JavaScript*
-  - *Express*
   - *NodeJS*
   - *Express* 
   - *ReactJS*
