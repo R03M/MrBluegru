@@ -63,10 +63,7 @@
 ---
 # Featured projects
 
-
-## **MOBILE**
-
-### **todoBlue**
+### **todoBlue** (MOBILE)
 
 #### It is a to-do list mobile application, in which you can create tasks with different types of priorities, on the date and time that you select, with the option to notify. The theme of the application will be the one used by the system (dark or light)
 
@@ -76,26 +73,29 @@
 *React Native* | 
 *React Navigation* | 
 *React Redux* | 
-*Redux Toolkit* | 
+*Redux Toolkit* 
 
 📲 **Download and try the app <a href="https://expo.dev/accounts/mrbluegru/projects/todoBlue/builds/9e32f51c-ca61-4dbf-ab4f-4dd9f3316551" target="_blank" rel="noreferrer">todoblue</a> (APK, Android)**
 
 ---
 
-### **weatherBlue**
-text
-text
-text
-text
-text
-text
-text
+### **weatherBlue** (MOBILE)
 
+#### It is a mobile application to check the weather, it shows the weather of your current location, you can check the weather of other cities through the search engine, you can add these cities to favorites, the theme of the application (dark or light) can be chosen from the configuration section, application languages (Spanish, and English) detected automatically.
+
+**Technologies**
+
+*Expo* | 
+*React Native* | 
+*React Navigation* | 
+*React Redux* | 
+*Redux Toolkit* 
+
+📲 **Download and try the app <a href="https://expo.dev/accounts/mrbluegru/projects/weatherBlue/builds/aeb493e2-3364-4426-8dda-b64acca24e7a" target="_blank" rel="noreferrer">weatherBlue</a> (APK, Android)**
 
 ---
-## **WEB**
 
-## **Coffee Street**
+## **Coffee Street** (WEB)
 
   **Coffee Street is an MVP grade E-commerce App.**
 
