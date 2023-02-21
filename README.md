@@ -70,6 +70,14 @@
 
 #### It is a to-do list mobile application, in which you can create tasks with different types of priorities, on the date and time that you select, with the option to notify. The theme of the application will be the one used by the system (dark or light)
 
+**Technologies**
+
+*Expo* | 
+*React Native* | 
+*React Navigation* | 
+*React Redux* | 
+*Redux Toolkit* | 
+
 📲 **Download and try the app <a href="https://expo.dev/accounts/mrbluegru/projects/todoBlue/builds/9e32f51c-ca61-4dbf-ab4f-4dd9f3316551" target="_blank" rel="noreferrer">todoblue</a> (APK, Android)**
 
 ---
