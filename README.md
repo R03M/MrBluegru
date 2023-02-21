@@ -6,7 +6,7 @@
 ---
 # About me
 
-  I'm a Full Stack Developer, currently focused on front-end development with ReactJS.
+  I'm a Full Stack Web Developer, currently focused on mobile development with React Native.
 
 ---
 # Tech Stack
