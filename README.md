@@ -67,13 +67,8 @@
 ## **MOBILE**
 
 ### **todoBlue**
-text
-text
-text
-text
-text
-text
-text
+#### It is a to-do list mobile application, in which you can create tasks with different types of priorities, on the date and time that you select, with the option to notify. The theme of the application will be the one used by the system (dark or light)
+
 ### **weatherBlue**
 text
 text
