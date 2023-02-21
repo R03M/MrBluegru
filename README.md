@@ -99,21 +99,22 @@ text
   - *The products in the cart are managed from the BackEnd, the products will be accessible from any device where you log in with your account.*    
 
   **Technologies**
-  - *JavaScript*
-  - *NodeJS*
-  - *Express* 
-  - *ReactJS*
-  - *Redux*
-  - *CSS*
-  - *SweetAlert*
-  - *Formik*
-  - *Yup*
-  - *Prisma*
-  - *Auth0*
-  - *JWT*
-  - *Cloudinary*
-  - *Nodemailer*
-  - *MercadoPago*
+  
+  *JavaScript* |
+  *NodeJS* | 
+  *Express* | 
+  *ReactJS* | 
+  *Redux* | 
+  *CSS* | 
+  *SweetAlert* | 
+  *Formik* | 
+  *Yup* | 
+  *Prisma* | 
+  *Auth0* | 
+  *JWT* | 
+  *Cloudinary* | 
+  *Nodemailer* | 
+  *MercadoPago* | 
 
 
   **Team**
