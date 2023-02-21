@@ -122,7 +122,7 @@
   *JWT* | 
   *Cloudinary* | 
   *Nodemailer* | 
-  *MercadoPago* | 
+  *MercadoPago* 
 
 
   **Team**
