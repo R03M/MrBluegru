@@ -82,7 +82,7 @@
 *React Redux* | 
 *Redux Toolkit* 
 
-📲 **Download and try the app <a href="https://expo.dev/accounts/mrbluegru/projects/todoBlue/builds/9e32f51c-ca61-4dbf-ab4f-4dd9f3316551" target="_blank" rel="noreferrer">todoblue</a> (APK, Android)**
+📲 **Download and try the app <a href="https://drive.google.com/file/d/1-DrSRArCgheOqLJwsGSPbNhKQusj-4nu/view?usp=sharing" target="_blank" rel="noreferrer">todoblue</a> (APK, Android)**
 
 ---
 
@@ -98,7 +98,7 @@
 *React Redux* | 
 *Redux Toolkit* 
 
-📲 **Download and try the app <a href="https://expo.dev/accounts/mrbluegru/projects/weatherBlue/builds/aeb493e2-3364-4426-8dda-b64acca24e7a" target="_blank" rel="noreferrer">weatherBlue</a> (APK, Android)**
+📲 **Download and try the app <a href="https://drive.google.com/file/d/1-OQeluRKzssnYo1CRgD-Vo9WwMRPwytN/view?usp=sharing" target="_blank" rel="noreferrer">weatherBlue</a> (APK, Android)**
 
 ---
 
