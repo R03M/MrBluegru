@@ -8,7 +8,7 @@
 
   <!-- I'm a Full Stack Web Developer, currently focused on mobile development with React Native. -->
 
-  Soy desarrollador de software, mi leguaje favorito es javascritp y tambien fue el primero que aprendi, actualmente estoy enfocado en el desarrollo mobile con react native, e 
+  <!--Soy desarrollador de software, mi leguaje favorito es javascritp y tambien fue el primero que aprendi, actualmente estoy enfocado en el desarrollo mobile con react native, e --> 
 
 ---
 # Tech Stack
