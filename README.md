@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://res.cloudinary.com/db6aq84ze/image/upload/v1667866893/Letras_blanca_b7z142.png' alt='logo'/>
+  <img src='https://res.cloudinary.com/db6aq84ze/image/upload/v1704481468/mrBlue/mrBlueCode_tle7bf.png' alt='logo'/>
 </p>
 
 
