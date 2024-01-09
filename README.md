@@ -76,24 +76,6 @@
 ---
 # Featured projects
 
-### **todoBlue** (MOBILE)
-
-#### It is a to-do list mobile application, in which you can create tasks with different types of priorities, on the date and time that you select, with the option to notify. The theme of the application will be the one used by the system (dark or light)
-
-<!-- **Technologies**
-
-*Expo* | 
-*React Native* | 
-*React Navigation* | 
-*React Redux* | 
-*Redux Toolkit* 
-
-📲 **Download and try the app <a href="https://drive.google.com/file/d/1-DrSRArCgheOqLJwsGSPbNhKQusj-4nu/view?usp=sharing" target="_blank" rel="noreferrer">todoblue</a> (APK, Android)** -->
-
-**<a href="https://github.com/MrBluegru/todoBlue-RN.App" target="_blank" rel="noreferrer">Read how it was built</a>**
-
----
-
 ### **weatherBlue** (MOBILE)
 
 #### It is a mobile application to check the weather, it shows the weather of your current location, you can check the weather of other cities through the search engine, you can add these cities to favorites, the theme of the application (dark or light) can be chosen from the configuration section, application languages (Spanish, and English) detected automatically.
