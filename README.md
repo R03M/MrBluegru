@@ -69,7 +69,9 @@
 ### **LibraryBlue**
 
   This project consists of a mobile application for inventory management in a bookstore/library. Allows you to add other bookstores/libraries as associates to share part of the inventory. Additionally, different levels of permissions are implemented for different ranks within the organization. The application allows a quick update of the output records of the articles and has a search engine that allows you to find articles according to seven main tags.
-**<a href="https://github.com/MrBluegru/libraryBlue" target="_blank" rel="noreferrer">Read how it was built.</a>**
+  **Read how it was built 
+  <a href="https://github.com/MrBluegru/libraryBlue" target="_blank" rel="noreferrer">Front End</a> and
+  <a href="https://github.com/MrBluegru/libraryBlue-api" target="_blank" rel="noreferrer">Back End</a>.**
 
 <p align='center'>
   <img src="./assets/libraryBlue.gif" height="700px"/>
