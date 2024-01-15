@@ -66,7 +66,7 @@
 ---
 
 
-| ![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbluegru&theme=blue_navy&layout=compact) | ![Estadísticas del perfil](https://github-readme-stats.vercel.app/api?username=mrbluegru&count_private=true&theme=blue_navy&show_icons=true) | 
+| ![Estadísticas del perfil](https://github-readme-stats.vercel.app/api?username=mrbluegru&count_private=true&theme=blue_navy&show_icons=true) | ![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbluegru&theme=blue_navy&layout=compact) | 
 | - | - |
 
 # Featured projects
