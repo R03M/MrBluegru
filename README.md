@@ -6,9 +6,7 @@
 ---
 # About me
 
-  <!-- I'm a Full Stack Web Developer, currently focused on mobile development with React Native. -->
 
-  <!--Soy desarrollador de software, mi leguaje favorito es javascritp y tambien fue el primero que aprendi, actualmente estoy enfocado en el desarrollo mobile con react native, e --> 
 
 ---
 # Tech Stack
@@ -66,97 +64,31 @@
 
 
 ---
-# Stats
 
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mrbluegru&theme=github_dark&layout=compact' />
+| ![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbluegru&theme=blue_navy&layout=compact) | ![Estadísticas del perfil](https://github-readme-stats.vercel.app/api?username=mrbluegru&count_private=true&theme=blue_navy&show_icons=true) |
+| --- | --- |
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrbluegru&count_private=true&theme=github_dark&show_icons=true" />
-
-
-
----
 # Featured projects
 
-### **todoBlue** (MOBILE)
+## **LibraryBlue**
 
-#### It is a to-do list mobile application, in which you can create tasks with different types of priorities, on the date and time that you select, with the option to notify. The theme of the application will be the one used by the system (dark or light)
+  This project consists of a mobile application for inventory management in a bookstore/library. Allows you to add other bookstores/libraries as associates to share part of the inventory. Additionally, different levels of permissions are implemented for different ranks within the organization. The application allows a quick update of the output records of the articles and has a search engine that allows you to find articles according to seven main tags.
 
-<!-- **Technologies**
+<p align='center'>
+  <img src="./assets/libraryBlue.gif" height="400px"/>
+</p>
 
-*Expo* | 
-*React Native* | 
-*React Navigation* | 
-*React Redux* | 
-*Redux Toolkit* 
-
-📲 **Download and try the app <a href="https://drive.google.com/file/d/1-DrSRArCgheOqLJwsGSPbNhKQusj-4nu/view?usp=sharing" target="_blank" rel="noreferrer">todoblue</a> (APK, Android)** -->
-
-**<a href="https://github.com/MrBluegru/todoBlue-RN.App" target="_blank" rel="noreferrer">Read how it was built</a>**
+**<a href="https://github.com/MrBluegru/libraryBlue" target="_blank" rel="noreferrer">Read how it was built</a>**
 
 ---
 
-### **weatherBlue** (MOBILE)
+## **Coffee Street**
 
-#### It is a mobile application to check the weather, it shows the weather of your current location, you can check the weather of other cities through the search engine, you can add these cities to favorites, the theme of the application (dark or light) can be chosen from the configuration section, application languages (Spanish, and English) detected automatically.
-
-<!-- **Technologies**
-
-*Expo* | 
-*React Native* | 
-*React Navigation* | 
-*React Redux* | 
-*Redux Toolkit* 
-
-📲 **Download and try the app <a href="https://drive.google.com/file/d/1-OQeluRKzssnYo1CRgD-Vo9WwMRPwytN/view?usp=sharing" target="_blank" rel="noreferrer">weatherBlue</a> (APK, Android)** -->
-
-**<a href="https://github.com/MrBluegru/weatherBlue-RN.App" target="_blank" rel="noreferrer">Read how it was built</a>**
-
----
-
-## **Coffee Street** (WEB)
-
-  **Coffee Street is an MVP grade E-commerce App.**
-
-  <!-- **Featured features**
-  - *Local account creation.*    
-  - *Sign in with google account via Auth0.*    
-  - *Sending emails through Nodemailer.*    
-  - *Upload photos with Cloudinary.*    
-  - *The products in the cart are managed from the BackEnd, the products will be accessible from any device where you log in with your account.*     -->
-
-  <!-- **Technologies**
-  
-  *JavaScript* |
-  *NodeJS* | 
-  *Express* | 
-  *ReactJS* | 
-  *Redux* | 
-  *CSS* | 
-  *SweetAlert* | 
-  *Formik* | 
-  *Yup* | 
-  *Prisma* | 
-  *Auth0* | 
-  *JWT* | 
-  *Cloudinary* | 
-  *Nodemailer* | 
-  *MercadoPago*  -->
+  It is a virtual store that combines coffee and bakery products. Customers have access to a shopping cart where they can select the desired products. In addition, the option to subscribe to receive news and updates is offered. Users can also create a custom account to manage previous orders and save their favorite products.
 
 
-  <!-- **Team**
-  - <a href="https://github.com/DarioMarcuzzi" target="_blank" rel="noreferrer">Dario Marcuzzi</a>  
-  - <a href="https://github.com/francormin" target="_blank" rel="noreferrer">Franco Corniglione</a>  
-  - <a href="https://github.com/leamercado" target="_blank" rel="noreferrer">Leandro Mercado</a>  
-  - <a href="https://github.com/lucasezr" target="_blank" rel="noreferrer">Lucas Rodriguez</a>  
-  - <a href="https://github.com/DaianaOli" target="_blank" rel="noreferrer">Luz Olivares</a>  
-  - <a href="https://github.com/mrbluegru" target="_blank" rel="noreferrer">Miguel E. Rodríguez C.</a>  
-  - <a href="https://github.com/noravers" target="_blank" rel="noreferrer">Nora Rodríguez</a>  
-  
-**Try it 🚀 <a href="https://coffee-street-front-end.vercel.app" target="_blank" rel="noreferrer">Coffee Street</a>** -->
-
-
-<img src="./gif/coffeeStreet.gif" />
+<img src="./assets/coffeeStreet.gif" />
 
 **Read how it was built 
 <a href="https://github.com/MrBluegru/CoffeeStreet-FrontEnd" target="_blank" rel="noreferrer">Front End</a> and
