@@ -2,14 +2,14 @@
   <img src='https://res.cloudinary.com/db6aq84ze/image/upload/v1704481468/mrBlue/mrBlueCode_tle7bf.png' alt='logo'/>
 </p>
 
-
----
 # About me
 
+**Software developer with experience in web, mobile and desktop application development. I am currently focused on mobile application development using technologies such as React Native and Kotlin.**
 
 
----
+
 # Tech Stack
+
 
 **Languages**
 
@@ -17,7 +17,7 @@
   ![C#](https://img.shields.io/badge/C%23-7f399c?style=for-the-badge&logo=c-sharp&logoColor=white) 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-  ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-%23232F3E.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
+  ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-%23232F3E.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC) 
 
  **Have worked in**
 
@@ -56,48 +56,37 @@
   ![railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
   
 
-
  **Operanting System familiar with**
 
   ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
----
-
-
+ 
 | ![Estadísticas del perfil](https://github-readme-stats.vercel.app/api?username=mrbluegru&count_private=true&theme=blue_navy&show_icons=true) | ![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbluegru&theme=blue_navy&layout=compact) | 
 | - | - |
 
 # Featured projects
 
-## **LibraryBlue**
+### **LibraryBlue**
 
   This project consists of a mobile application for inventory management in a bookstore/library. Allows you to add other bookstores/libraries as associates to share part of the inventory. Additionally, different levels of permissions are implemented for different ranks within the organization. The application allows a quick update of the output records of the articles and has a search engine that allows you to find articles according to seven main tags.
+**<a href="https://github.com/MrBluegru/libraryBlue" target="_blank" rel="noreferrer">Read how it was built.</a>**
 
 <p align='center'>
   <img src="./assets/libraryBlue.gif" height="700px"/>
 </p>
 
-**<a href="https://github.com/MrBluegru/libraryBlue" target="_blank" rel="noreferrer">Read how it was built</a>**
 
----
-
-## **Coffee Street**
+### **Coffee Street**
 
   It is a virtual store that combines coffee and bakery products. Customers have access to a shopping cart where they can select the desired products. In addition, the option to subscribe to receive news and updates is offered. Users can also create a custom account to manage previous orders and save their favorite products.
-
-
-<img src="./assets/coffeeStreet.gif" />
-
 **Read how it was built 
 <a href="https://github.com/MrBluegru/CoffeeStreet-FrontEnd" target="_blank" rel="noreferrer">Front End</a> and
 <a href="https://github.com/MrBluegru/CoffeeStreet-BackEnd" target="_blank" rel="noreferrer">Back End</a>.**
 
----
-### Contact me on 
+<img src="./assets/coffeeStreet.gif" />
 
+
+## Contact me on 
 <a href="https://www.linkedin.com/in/mrbluegru/" target="_blank" rel="noreferrer">![linkedIn](https://img.shields.io/badge/linkedin-0078D6?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:miguelrodriguezmbg@gmail.com" target="_blank" rel="noreferrer">![email](https://img.shields.io/badge/gmail-0078D6?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
----
