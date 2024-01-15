@@ -14,9 +14,9 @@
 **Languages**
 
   ![Kotlin](https://img.shields.io/badge/Kotlin-9a3af4?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-7f399c?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C#](https://img.shields.io/badge/C%23-7f399c?style=for-the-badge&logo=c-sharp&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
   ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-%23232F3E.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 
  **Have worked in**
@@ -66,8 +66,8 @@
 ---
 
 
-| ![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbluegru&theme=blue_navy&layout=compact) | ![Estadísticas del perfil](https://github-readme-stats.vercel.app/api?username=mrbluegru&count_private=true&theme=blue_navy&show_icons=true) |
-| --- | --- |
+| ![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbluegru&theme=blue_navy&layout=compact) | ![Estadísticas del perfil](https://github-readme-stats.vercel.app/api?username=mrbluegru&count_private=true&theme=blue_navy&show_icons=true) | 
+| - | - |
 
 # Featured projects
 
