@@ -1,4 +1,6 @@
-
+<p align='center'>
+  <img src='./assets/r03m.gif' alt='logo'/>
+</p>
 
 # About me
 
