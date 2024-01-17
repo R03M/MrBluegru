@@ -61,7 +61,7 @@
   ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
-| ![Estadísticas del perfil](https://github-readme-stats.vercel.app/api?username=mrbluegru&count_private=true&theme=blue_navy&show_icons=true) | ![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbluegru&theme=blue_navy&layout=compact) | 
+| ![Estadísticas del perfil](https://github-readme-stats.vercel.app/api?username=R03M&count_private=true&theme=blue_navy&show_icons=true) | ![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=R03M&theme=blue_navy&layout=compact) | 
 | - | - |
 
 # Featured projects
