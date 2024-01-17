@@ -1,6 +1,4 @@
-<p align='center'>
-  <img src='https://res.cloudinary.com/db6aq84ze/image/upload/v1704481468/mrBlue/mrBlueCode_tle7bf.png' alt='logo'/>
-</p>
+
 
 # About me
 
