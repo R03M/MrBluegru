@@ -13,10 +13,9 @@
 
 **Languages**
 
-  ![Kotlin](https://img.shields.io/badge/Kotlin-9a3af4?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-7f399c?style=for-the-badge&logo=c-sharp&logoColor=white) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![Kotlin](https://img.shields.io/badge/Kotlin-9a3af4?style=for-the-badge&logo=kotlin&logoColor=white)
   ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-%23232F3E.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC) 
 
  **Have worked in**
